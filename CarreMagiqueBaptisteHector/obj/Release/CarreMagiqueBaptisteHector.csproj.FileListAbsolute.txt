@@ -1,0 +1,14 @@
+c:\users\54556\source\repos\CarreMagiqueBaptisteHector\CarreMagiqueBaptisteHector\bin\Release\CarreMagiqueBaptisteHector.exe.config
+c:\users\54556\source\repos\CarreMagiqueBaptisteHector\CarreMagiqueBaptisteHector\bin\Release\CarreMagiqueBaptisteHector.exe
+c:\users\54556\source\repos\CarreMagiqueBaptisteHector\CarreMagiqueBaptisteHector\bin\Release\CarreMagiqueBaptisteHector.pdb
+c:\users\54556\source\repos\CarreMagiqueBaptisteHector\CarreMagiqueBaptisteHector\obj\Release\MainWindow.g.cs
+c:\users\54556\source\repos\CarreMagiqueBaptisteHector\CarreMagiqueBaptisteHector\obj\Release\App.g.cs
+c:\users\54556\source\repos\CarreMagiqueBaptisteHector\CarreMagiqueBaptisteHector\obj\Release\CarreMagiqueBaptisteHector_MarkupCompile.cache
+c:\users\54556\source\repos\CarreMagiqueBaptisteHector\CarreMagiqueBaptisteHector\obj\Release\CarreMagiqueBaptisteHector_MarkupCompile.lref
+c:\users\54556\source\repos\CarreMagiqueBaptisteHector\CarreMagiqueBaptisteHector\obj\Release\MainWindow.baml
+c:\users\54556\source\repos\CarreMagiqueBaptisteHector\CarreMagiqueBaptisteHector\obj\Release\CarreMagiqueBaptisteHector.g.resources
+c:\users\54556\source\repos\CarreMagiqueBaptisteHector\CarreMagiqueBaptisteHector\obj\Release\CarreMagiqueBaptisteHector.Properties.Resources.resources
+c:\users\54556\source\repos\CarreMagiqueBaptisteHector\CarreMagiqueBaptisteHector\obj\Release\CarreMagiqueBaptisteHector.csproj.GenerateResource.cache
+c:\users\54556\source\repos\CarreMagiqueBaptisteHector\CarreMagiqueBaptisteHector\obj\Release\CarreMagiqueBaptisteHector.csproj.CoreCompileInputs.cache
+c:\users\54556\source\repos\CarreMagiqueBaptisteHector\CarreMagiqueBaptisteHector\obj\Release\CarreMagiqueBaptisteHector.exe
+c:\users\54556\source\repos\CarreMagiqueBaptisteHector\CarreMagiqueBaptisteHector\obj\Release\CarreMagiqueBaptisteHector.pdb
